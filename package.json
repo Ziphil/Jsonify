@@ -1,0 +1,18 @@
+{
+  "name": "jsonify-type",
+  "version": "1.0.0",
+  "author": "Ziphil",
+  "description": "My personal configurations for ESLint",
+  "homepage": "https://github.com/Ziphil/Jsonify",
+  "license": "MIT",
+  "main": "dist/index.js",
+  "scripts": {
+    "develop": "ts-node source/index.ts",
+    "build": "tsc",
+    "prepare": "tsc"
+  },
+  "devDependencies": {
+    "ts-node": "^9.0.0",
+    "typescript": "^4.0.3"
+  }
+}
