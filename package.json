@@ -2,7 +2,7 @@
   "name": "jsonify-type",
   "version": "1.0.0",
   "author": "Ziphil",
-  "description": "My personal configurations for ESLint",
+  "description": "The type of `JSON.parse(​JSON.stringify(object))`",
   "homepage": "https://github.com/Ziphil/Jsonify",
   "license": "MIT",
   "main": "dist/index.js",
